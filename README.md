@@ -15,7 +15,6 @@ I'm currently a 2nd-year student taking up **Bachelor of Science in Information 
 
 - 💻 Coding and learning new programming languages
 - 🎮 Playing video games
-- 🎨 Designing user interfaces
 - 🎧 Listening to music
 - 📱 Exploring mobile apps and tech trends
 
