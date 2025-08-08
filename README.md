@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Jerome Palmero
+# 👋 Hello World!
 
 I'm currently a 2nd-year student taking up **Bachelor of Science in Information Technology**. I enjoy exploring how technology works and love turning ideas into working systems.
 
@@ -10,13 +10,6 @@ I'm currently a 2nd-year student taking up **Bachelor of Science in Information 
 
 - Bachelor of Science in Information Technology  
 - 2nd Year Student
-
-## 🎯 Hobbies & Interests
-
-- 💻 Coding and learning new programming languages
-- 🎮 Playing video games
-- 🎧 Listening to music
-- 📱 Exploring mobile apps and tech trends
 
 ## 💻 Programming Languages
 
