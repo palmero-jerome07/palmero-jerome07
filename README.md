@@ -3,7 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Jerome!;Aspiring+Full+Stack+Developer;Always+learning" alt="Typing SVG" />
 </h1>
 
----
 
 ## 🚀 About Me
 I'm a 2nd-year student taking up **Bachelor of Science in Information Technology**.  
