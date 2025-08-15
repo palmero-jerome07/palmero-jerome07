@@ -31,8 +31,8 @@ I love exploring how technology works and enjoy turning creative ideas into work
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=palmero-jerome07&show_icons=true&locale=en&layout=compact" alt="smoj" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=palmero-jerome07&show_icons=true&locale=en" alt="smoj" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=palmero-jerome07&" alt="smoj" /></p>
+![palmero-jerome07's Stats](https://github-readme-stats.vercel.app/api?username=palmero-jerome07&theme=dark&show_icons=true&hide_border=false&count_private=true)
+![palmero-jerome07's Streak](https://github-readme-streak-stats.herokuapp.com/?user=palmero-jerome07&theme=dark&hide_border=false)
+![palmero-jerome07's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=palmero-jerome07&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 ---
