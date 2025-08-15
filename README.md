@@ -1,6 +1,6 @@
 <!-- Profile Header with Animated Typing -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FFFF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Jerome!;Aspiring+Full+Stack+Developer;Always+learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=66ffcc&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Jerome!;Aspiring+Full+Stack+Developer;Always+learning" alt="Typing SVG" />
 </h1>
 
 
