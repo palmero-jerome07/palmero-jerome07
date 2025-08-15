@@ -11,32 +11,28 @@ I love exploring how technology works and enjoy turning creative ideas into work
 ---
 
 ## 📬 Contact Me
-<p>
   <a href="mailto:jeromepalmero07@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a> &nbsp;&nbsp;
-  <a href="https://github.com/palmero-jerome07" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
+  </a> 
+      
 ---
 
 ## 🎓 Education
-- 📚 **Bachelor of Science in Information Technology**  
-- 🎯 **2nd Year Student**  
+-  **Bachelor of Science in Information Technology**  
+-  **2nd Year Student**  
 
 ---
 
-## 🛠 Tools
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /> &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" /> &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+
+---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=palmero-jerome07&label=Profile%20views&color=0e75b6&style=flat" alt="smoj" /> </p>
 
 ---
 
-![Just Vibes](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWd3anZvZW1rdXlsN3R2MXc0YjE0MGhxaHlkcGhhNWFycnA5dXAzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=palmero-jerome07&show_icons=true&locale=en&layout=compact" alt="smoj" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=palmero-jerome07&show_icons=true&locale=en" alt="smoj" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=palmero-jerome07&" alt="smoj" /></p>
 
 ---
