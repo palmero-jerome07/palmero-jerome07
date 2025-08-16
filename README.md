@@ -14,13 +14,7 @@ I love exploring how technology works and enjoy turning creative ideas into work
   <a href="mailto:jeromepalmero07@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a> 
-      
----
-
-## 🎓 Education
--  **Bachelor of Science in Information Technology**  
--  **2nd Year Student**  
-
+       
 ---
 
 <h3 align="left">Languages and Tools:</h3>
