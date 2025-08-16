@@ -33,6 +33,5 @@ I love exploring how technology works and enjoy turning creative ideas into work
 
 ![palmero-jerome07's Stats](https://github-readme-stats.vercel.app/api?username=palmero-jerome07&theme=dark&show_icons=true&hide_border=false&count_private=true)
 ![palmero-jerome07's Streak](https://github-readme-streak-stats.herokuapp.com/?user=palmero-jerome07&theme=dark&hide_border=false)
-![palmero-jerome07's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=palmero-jerome07&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 ---
