@@ -4,24 +4,32 @@
 </h1>
 
 
-## 🚀 About Me
+##  About Me
 I'm a 2nd-year student taking up **Bachelor of Science in Information Technology**.  
-I love exploring how technology works and enjoy turning creative ideas into working, functional systems.
 
 ---
 
-## 📬 Contact Me
-  <a href="mailto:jeromepalmero07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a> 
-       
+## Contact me
+
+ <img width="40" height="40" alt="Email" src="https://github.com/user-attachments/assets/6cca1d8c-ad03-40e9-af14-14e15e27b8ac" />  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <a href="mailto:jeromepalmero07@gmail.com"> jeromepalmero7@gmail.com</a>
+  
 ---
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+<img width="49" height="50" alt="image" src="https://github.com/user-attachments/assets/e93bef62-d4a9-421c-b295-1b1505a3e248" /> &nbsp;
+<img width="40" height="50" alt="image" src="https://github.com/user-attachments/assets/612e7902-978a-4a9c-b2b4-67b711383ac4" /> &nbsp;
+<img width="40" height="50" alt="image" src="https://github.com/user-attachments/assets/8c0ac915-c694-4082-97b4-84425d93ebf0" /> &nbsp;
+<img width="40" height="50" alt="image" src="https://github.com/user-attachments/assets/a020736e-4c5e-433c-a444-c92b5c5df179" /> &nbsp;
+<img width="40" height="50" alt="c#" src="https://github.com/user-attachments/assets/3304e9c5-c4c6-43b5-8b35-bc07e6107ccb" /> &nbsp;
+<img width="40" height="50" alt="image" src="https://github.com/user-attachments/assets/8d820ee5-4487-4e47-8bf3-4b8145b7dfa5" /> &nbsp;
+<img width="40" height="50" alt="image" src="https://github.com/user-attachments/assets/c6561eba-b8fe-4277-a98b-fb8d8432b4e9" /> &nbsp;
+<img width="40" height="50" alt="image" src="https://github.com/user-attachments/assets/4e2adaeb-8811-4d87-a373-594ca866ce6d" /> &nbsp;
+<img width="40" height="50" alt="image" src="https://github.com/user-attachments/assets/547766f7-a672-412b-970b-d27d681d5288" /> &nbsp;
 
+
+<!--
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=palmero-jerome07&label=Profile%20views&color=0e75b6&style=flat" alt="smoj" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=palmero-jerome07&label=Profile%20views&color=0e75b6&style=flat" alt="smoj" /> </p> -->
 
 ---
 
