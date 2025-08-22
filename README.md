@@ -10,8 +10,9 @@ I'm a 2nd-year student taking up **Bachelor of Science in Information Technology
 ---
 
 ## Contact me
-
- <img width="40" height="40" alt="Email" src="https://github.com/user-attachments/assets/6cca1d8c-ad03-40e9-af14-14e15e27b8ac" />  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <a href="mailto:jeromepalmero07@gmail.com"> jeromepalmero7@gmail.com</a>
+  <a href="mailto:jeromepalmero07@gmail.com">
+     <img width="40" height="40" alt="Email" src="https://github.com/user-attachments/assets/6cca1d8c-ad03-40e9-af14-14e15e27b8ac" />  
+  </a>
   
 ---
 
