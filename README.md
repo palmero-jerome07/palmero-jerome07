@@ -36,5 +36,5 @@ I'm a 2nd-year student taking up **Bachelor of Science in Information Technology
 
 ![palmero-jerome07's Stats](https://github-readme-stats.vercel.app/api?username=palmero-jerome07&theme=dark&show_icons=true&hide_border=false&count_private=true)
 ![palmero-jerome07's Streak](https://github-readme-streak-stats.herokuapp.com/?user=palmero-jerome07&theme=dark&hide_border=false)
-
+ 
 ---
