@@ -4,7 +4,7 @@
 </h1>
 
 
-##  About Me  
+##  About Me   
 I'm a 2nd-year student taking up **Bachelor of Science in Information Technology**.
 
 
