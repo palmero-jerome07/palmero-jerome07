@@ -11,7 +11,7 @@ I'm a 2nd-year student taking up **Bachelor of Science in Information Technology
 ##  Currently Learning 
 - React.js & Node.js  
 - RESTful APIs  
-- Database Management (MySQL, MongoDB)  
+- Database Management (MySQL, MongoDB)   
 
 
 ##  Contact Me 
