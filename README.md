@@ -19,7 +19,7 @@ I'm a 2nd-year student taking up **Bachelor of Science in Information Technology
   <a href="mailto:jeromepalmero07@gmail.com">
     <img width="40" height="40" alt="Email" src="https://github.com/user-attachments/assets/6cca1d8c-ad03-40e9-af14-14e15e27b8ac" />
   </a>
-  &nbsp;
+ <!-- &nbsp;
   <a href="https://github.com/palmero-jerome07" target="_blank">
     <img width="40" height="40" alt="GitHub" src="https://github.com/user-attachments/assets/4e2adaeb-8811-4d87-a373-594ca866ce6d" />
   </a>
@@ -27,7 +27,7 @@ I'm a 2nd-year student taking up **Bachelor of Science in Information Technology
   <a href="https://www.linkedin.com/in/jeromepalmero" target="_blank">
     <img width="40" height="40" alt="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
   </a>
-</p>
+</p> -->
 
 
 ## Languages and Tools  
